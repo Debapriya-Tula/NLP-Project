@@ -28,7 +28,8 @@ emotional intensity, with an additional neutral
 expression.<br>
 ○ <b>1250</b> samples in total.
 
-<br>
+<h4> Test accuracy obtained: <b>73.5 %</b> </h4>
+<br><br>
 
 
 2) [Toronto Emotional Speech Set - TESS](https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess)
@@ -39,4 +40,6 @@ Dataset description:
 ○ 7 emotions in total: <b>anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral.</b><br>
 ○ Audiometric testing indicated that both actresses have thresholds within the normal range.<br>
 ○ <b>1370</b> samples in total.
+
+<h4> Test accuracy obtained: <b>98.6 %</b> </h4>
 
