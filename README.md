@@ -17,7 +17,7 @@ Datasets used:
 
 Only the audio tracks have been used.
 
-Description about the audio dataset:
+Dataset description:
 
 ○ Gender balanced consisting of 24 professional
 actors.<br>
@@ -26,15 +26,15 @@ angry,fearful, surprise, and disgust
 expressions.</b><br>
 ○ Each expression is produced at two levels of
 emotional intensity, with an additional neutral
-expression.
+expression.<br>
 ○ <b>1250</b> samples in total.
 
+<br>
 
 
+2) <h3>[Toronto Emotional Speech Set (TESS)](https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess)</h3>
 
-<h3> 2)[Toronto Emotional Speech Set (TESS)](https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess)</h3>
-
-Description about the dataset:
+Dataset description:
 
 ○ Voices of two actresses, aged 26 and 64.<br>
 ○ 7 emotions in total: <b>anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral.</b><br>
