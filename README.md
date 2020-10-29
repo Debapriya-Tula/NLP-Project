@@ -12,7 +12,7 @@ For example, the phrase, ‘What a man!’ can indicate surprise or even disgust
 
 Datasets used: 
 
-1) <h3>[The Ryerson Audio-Visual Database of Emotional Speech and Song - RAVDESS](https://zenodo.org/record/1188976) </h3>
+1) [The Ryerson Audio-Visual Database of Emotional Speech and Song - RAVDESS](https://zenodo.org/record/1188976)
 
 Only the audio tracks have been used.
 
@@ -31,7 +31,7 @@ expression.<br>
 <br>
 
 
-2) <h3>[Toronto Emotional Speech Set - TESS](https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess)</h3>
+2) [Toronto Emotional Speech Set - TESS](https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess)
 
 Dataset description:
 
