@@ -8,9 +8,8 @@ Recognition of Emotion from Speech directly.<br>
 3) Confusing emotional contexts in some cases.
 For example, the phrase, ‘What a man!’ can indicate surprise or even disgust.
 
-## Motivation
 
-Datasets used: 
+## Datasets used: 
 
 1) [The Ryerson Audio-Visual Database of Emotional Speech and Song - RAVDESS](https://zenodo.org/record/1188976)
 
